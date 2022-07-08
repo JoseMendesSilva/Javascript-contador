@@ -1,6 +1,6 @@
 git init
 git add .
-git commit -m "Adicionando uma pasta de utilidades no projeto"
+git commit -m "Adicionando um README ao projeto"
 git branch -M main
 git remote add origin https://github.com/JoseMendesSilva/Javascript-contador.git
 git push -u origin main
