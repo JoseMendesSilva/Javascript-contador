@@ -1,0 +1,13 @@
+git init
+git add .
+git commit -m "Adicionando uma pasta de utilidades no projeto"
+git branch -M main
+git remote add origin https://github.com/JoseMendesSilva/Javascript-contador.git
+git push -u origin main
+
+Referências:
+https://www.w3schools.com/js/js_htmldom_eventlistener.asp
+
+window.addEventListener("resize", function(){
+  document.getElementById("mostrar").innerHTML = sometext;
+});
